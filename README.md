@@ -1,8 +1,8 @@
 # Making Slides
 
-TODO abstract/description goes here
+A rough and ready workshop about making slides that tell stories.
 
 
 # History
 
-TODO history goes here.
+TBD
