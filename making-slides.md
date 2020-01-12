@@ -117,6 +117,20 @@ A mean wolf wants to eat the girl, and the food in the basket. He secretly stalk
 
 ---
 
+[.header: #999]
+
+# Storyboard
+
+![original](images/storyboard.jpg)
+
+
+^ How do you do that? You create a storyboard. For every idea you have, thing you have to say, problem, question, whatever you think belongs in your talk write it down on a post-it note or index card.
+Put them on a wall or a desk.
+Move them around. Do they tell the story? Is the setup for something actually before it? What can you cut?
+Normally end up getting rid of 40-50% of cards because they don't quite fit, or are inessential.
+
+---
+
 # Exercise
 ## Little Red Riding Hood
 
